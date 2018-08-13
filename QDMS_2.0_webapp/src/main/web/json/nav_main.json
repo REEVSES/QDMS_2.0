@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "text": "数据管理",
+      "icon": "&#xe665;",
+      "subset": [
+        {
+          "text": "中石化下载",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/data/sinopec.jsp"
+        },
+        {
+          "text": "收银宝导入",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/data/collection_silver.jsp"
+        },
+        {
+          "text": "受理商户导入",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/data/accept_market_merchant.jsp"
+        },
+        {
+          "text": "银联直连导入",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/data/UnionPay.jsp"
+        },
+        {
+          "text": "银联收益",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/data/UnionPay_profit.jsp"
+        },
+        {
+          "text": "终端信息导入",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/data/terminal.jsp"
+        },
+        {
+          "text": "二维码信息导入",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/data/QR_code.jsp"
+        },
+        {
+          "text": "文件转移",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/data/file_transfer.jsp"
+        }
+      ]
+    },
+    {
+      "text": "信息查询",
+      "icon": "&#xe6b2;",
+      "href": "",
+      "subset": [
+        {
+          "text": "受理市场",
+          "icon": "&#xe62e;",
+          "href": "demo/mydemo/select/accept_market_merchant_select.jsp"
+        },
+        {
+          "text": "网络支付信息",
+          "icon": "&#xe7ae;",
+          "href": "demo/mydemo/select/real_pay_select.jsp"
+        },
+        {
+          "text": "收银宝",
+          "icon": "&#xe857;",
+          "href": "demo/mydemo/select/collecting_silver_select.jsp"
+        },
+        {
+          "text": "当面付",
+          "icon": "&#xe678;",
+          "href": "demo/mydemo/select/face_pay_select.jsp"
+        },
+        {
+          "text": "sim卡",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/select/sim_select.jsp"
+        },
+        {
+          "text": "考核信息(本人)",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/select/assessment.jsp"
+        }
+      ]
+    },
+    {
+      "text": "个人报表",
+      "icon": "&#xe63c;",
+      "href": "demo/children.html",
+      "subset": [
+        {
+          "text": "钱包公示",
+          "icon": "&#xe62e;",
+          "href": "demo/mydemo/report/wallet_publicity.jsp"
+        },
+        {
+          "text": "广大联名",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/report/guangda_Jointly.jsp"
+        },
+        {
+          "text": "pos贷",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/report/pos_loan.jsp"
+        },
+        {
+          "text": "维护信息",
+          "icon": "&#xe621;",
+          "href": "demo/mydemo/report/maintenance_information.jsp"
+        }
+      ]
+    }
+  ]
+}
